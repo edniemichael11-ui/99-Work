@@ -18,7 +18,7 @@ while True:
         R_width=float(R_width)
         R_height=float(R_height)
         R_Volume=(R_length*R_width*R_height)
-        print(f"The volume of the rectangl is {R_Volume}")
+        print(f"The volume of the rectangle is {R_Volume}")
         break
 
     else:
